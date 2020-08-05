@@ -8,5 +8,9 @@ object Main {
   def main(args: Array[String]): Unit = {
     println("Hello world!")
     DataTypes.examples()
+    Maths.examples()
+    Conditionals.examples()
+    //stopped http://www.newthinktank.com/2015/08/learn-scala-one-video/
+    Loops.example()
   }
 }
